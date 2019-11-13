@@ -1,0 +1,267 @@
+/*********************CONTAINERS****************************/
+.MainContainer {
+  height: 95vh;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.MainRow {
+  height: 95vh;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.Flex {
+  display: flex !important;
+}
+/*********************CONTAINERS****************************/
+/*********************ROWS****************************/
+  .TenRow {
+    height: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .NineRow {
+    height: 90% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .EightRow {
+    height: 80% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .SevenRow {
+    height: 70% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .SixRow {
+    height: 60% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .FiveRow {
+    height: 50% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .FourRow {
+    height: 40% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .ThirdRow {
+    height: 33% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .ThreeRow {
+    height: 30% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .QuarterRow {
+    height: 25% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .TwoRow {
+    height: 20% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .OneRow {
+    height: 10% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+/*********************ROWS****************************/
+/*********************ROWS****************************/
+.NineFiveRow {
+  height: 95% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.PointFiveRow {
+  height: 5% !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+/*********************ROWS****************************/
+/*********************COLS****************************/
+  .TenColumn {
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+  }
+  .NineColumn {
+    width: 90% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 90% !important;
+  }
+  .EightColumn {
+    width: 80% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 80% !important;
+  }
+  .SevenColumn {
+    width: 70% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 70% !important;
+  }
+  .TwoThirdColumn {
+    width: 66.66% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 66.66% !important;
+  }
+  .SixColumn {
+    width: 60% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 60% !important;
+  }
+  .FiveColumn {
+    width: 50% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 50% !important;
+  }
+  .FourColumn {
+    width: 40% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 40% !important;
+  }
+  .ThreeColumn {
+    width: 30% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 30% !important;
+  }
+  .ThirdColumn {
+    width: 33.33% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 33.33% !important;
+  }
+  .TwoColumn {
+    width: 20% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 20% !important;
+  }
+  .OneColumn {
+    width: 10% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 10% !important;
+  }
+/*********************COLS****************************/
+/*********************PROPERTIES****************************/
+.AlC {
+  align-items: center;
+}
+.AlFS {
+  align-items: flex-start;
+}
+.AlFE {
+  align-items: flex-end;
+}
+.AlStr {
+  align-items: stretch;
+}
+.AlSE {
+  align-items: space-evenly;
+}
+.AlSB {
+  align-items: space-between;
+}
+.AlSA {
+  align-items: space-around;
+}
+.AlSelfC {
+  align-self: center;
+}
+.AlSelfFE {
+  align-self: center;
+}
+.AlSelfFS {
+  align-self: center;
+}
+.JustC {
+  justify-content: center;
+}
+.JustFS {
+  justify-content: flex-start;
+}
+.JustFE {
+  justify-content: flex-end;
+}
+.JustSE {
+  justify-content: space-evenly;
+}
+.JustSB {
+  justify-content: space-between;
+}
+.JustSA {
+  justify-content: space-around;
+}
+.DirR {
+  flex-direction: row;
+}
+.DirC {
+  flex-direction: column;
+}
+.NWrap {
+flex-wrap: nowrap !important;
+}
+.Abs {
+  position: absolute;
+}
+.NoMargin {
+  margin: 0 !important;
+}
+.PadLeft10 {
+  padding-left: 10%;
+}
+.PaddTable {
+  padding: 20px !important;
+}
+/*********************PROPERTIES****************************/
+/*********************SHADOWS****************************/
+
+.ShadowRight {
+  -webkit-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.35);
+-moz-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.35);
+box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.35);
+}
+.ShadowLeft {
+  -webkit-box-shadow: -5px 5px 6px 0px rgba(0,0,0,0.35);
+  -moz-box-shadow: -5px 5px 6px 0px rgba(0,0,0,0.35);
+  box-shadow: -5px 5px 6px 0px rgba(0,0,0,0.35);
+}
+.ShadowBottom {
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.75);
+}
+/*********************SHADOWS****************************/
+/*********************Animations****************************/
+.AnimMovement {
+  transition: 1s;
+}
+.AnimFadeIn {
+  transition: opacity 1.2s ease-in 1;
+  transition-property: opacity;
+}
+/*********************Animations****************************/
+.Colored {
+  background: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.9)) !important;
+}
+.AltColored {
+  background: linear-gradient(rgba(115, 115, 115), rgba(38, 38, 38)) !important;
+}

@@ -1,0 +1,75 @@
+.Navigator {
+  padding: 0 !important;
+}
+.NavigatorLogin {
+  /* flex: 1; */
+  padding: 0 !important;
+}
+.NavLogoLogin {
+  flex: 0.25;
+}
+.NavTabsLogin {
+  flex: 0.5;
+  height: 100%;
+  border-bottom: 0 !important;
+}
+.nav-item {
+  height: 100%;
+}
+.NavNameLogin {
+  flex: 0.25;
+}
+.NavLogo {
+  flex: 0.2;
+  margin: 0 !important;
+}
+.NavTabs {
+  flex: 0.6;
+  height: 100%;
+  border-bottom: 0 !important;
+  align-items: flex-end;
+}
+.NavLink {
+  display: flex !important;
+  height: 90%;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  padding: 0 !important;
+  color: rgba(255,255,255,.5) !important;
+}
+.nav-link.active {
+  background: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.9)) !important;
+  border-color: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.9)) !important;
+  color: #FFF !important;
+}
+.nav-link.hover {
+border-color: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.9)) !important;
+}
+.nav-tabs.hover {
+border-color: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.9)) !important;
+}
+.NavName {
+  display: flex;
+  padding: 0 !important;
+  align-items: center;
+  justify-content: space-around;
+  flex: 0.2;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.NavUserText {
+  padding: 0 !important;
+}
+.NavButon {
+  display: flex !important;
+  align-items: flex-start;
+  justify-content: center;
+  flex: 0.5;
+  padding: 0 !important;
+  height: 4vh !important;
+  background-color: rgb(255, 153, 51) !important;
+  color: #fff;
+  border-radius: 2px !important;
+  border-color: rgb(255, 153, 51) !important;
+}

@@ -1,0 +1,31 @@
+.MainContainer {
+  height: 95vh;
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: 100vw !important;
+}
+.RowContainer {
+  height: 95vh;
+  padding: 0 !important;
+  margin: 0 !important;
+  flex-wrap: nowrap !important;
+}
+.HomeContent {
+  background: linear-gradient(rgba(52, 58, 64), rgba(52, 58, 64, 0.8)) !important;
+}
+.HomeTitle {
+  color: #fff;
+}
+.LogoIMG {
+  align-self: center;
+  top: 50%;
+  right: -50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  opacity: 0.4;
+}
+.ShadowRightHome {
+  -webkit-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.35);
+  -moz-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.35);
+  box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.35)
+}
